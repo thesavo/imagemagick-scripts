@@ -1,0 +1,1 @@
+mogrify -alpha off *.gif
